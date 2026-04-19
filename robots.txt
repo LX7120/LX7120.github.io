@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: https://LX7120.github.io/sitemap.xml
