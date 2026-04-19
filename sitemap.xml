@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://LX7120.github.io/</loc>
+    <loc>https://lx7120.github.io/</loc>
   </url>
   <url>
-    <loc>https://LX7120.github.io/resume</loc>
+    <loc>https://lx7120.github.io/projects/</loc>
   </url>
   <url>
-    <loc>https://LX7120.github.io/projects</loc>
+    <loc>https://lx7120.github.io/faq/</loc>
   </url>
   <url>
-    <loc>https://LX7120.github.io/faq</loc>
+    <loc>https://lx7120.github.io/resume/</loc>
   </url>
 </urlset>
