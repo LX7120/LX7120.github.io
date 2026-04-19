@@ -1,5 +1,7 @@
-
-# 项目经历
+---
+title: 项目经历
+permalink: /projects/
+---
 
 ## 项目一：复数域上分数阶 Hermite 理论研究
 - 项目类型：独立研究项目
