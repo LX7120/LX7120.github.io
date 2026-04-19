@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://LX7120.github.io/sitemap.xml
+Sitemap: https://lx7120.github.io/sitemap.xml
