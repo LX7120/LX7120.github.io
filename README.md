@@ -37,5 +37,9 @@
 ## 简介
 李烜，湘潭大学数学专业在读硕士生，主要研究概率论与数理统计方向，具备扎实的数学理论基础、较强的独立研究能力与学术写作能力，独立完成了复数域上分数阶 Hermite 相关论文工作，研究内容涉及分数阶复 Hermite 多项式、正交性、完备性与 Wiener 型展开等问题。
 
-
+## 外部链接
+- [GitHub 个人资料页](https://github.com/LX7120)
+- [GitHub 个人简介仓库](https://github.com/LX7120/LX7120)
+- [论文专题仓库](https://github.com/LX7120/fractional-hermite-complex-domain)
+- [研究页面](/paper/)
 
